@@ -1,9 +1,6 @@
 # Certifications
 
----
-
 ## DataCamp
-
 | Certificate | Status | Date |
 |-------------|--------|------|
 | Associate AI Engineer for Data Scientists | 📅 | |
@@ -18,7 +15,6 @@
 | Hugging Face Fundamentals | 📅 | |
 
 ## Anthropic / Claude
-
 | Certificate | Status | Date |
 |-------------|--------|------|
 | Claude Code 101 | 📅 | |
@@ -26,7 +22,6 @@
 | Claude Certified Architect – Foundations | 📅 | |
 
 ## DeepLearning.AI
-
 | Certificate | Status | Date |
 |-------------|--------|------|
 | Transformers in Practice | 📅 | |

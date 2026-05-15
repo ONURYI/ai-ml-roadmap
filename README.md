@@ -1,72 +1,55 @@
-# AI/ML Roadmap
+<div align="center">
 
-A structured, self-paced roadmap from mathematical foundations to AI research.
-Built for deep understanding — not just tool usage.
+# 🤖 AI/ML Roadmap
 
-**Approach:** Theory and practice always in parallel. No fixed timeline — depth over speed.
+**From mathematical foundations to publishing research.**
+Theory and practice always in parallel. Depth over speed.
 
----
+![Status](https://img.shields.io/badge/Status-In%20Progress-blue)
+![Blocks](https://img.shields.io/badge/Blocks-15-green)
+![Approach](https://img.shields.io/badge/Approach-Theory%20%2B%20Practice-orange)
 
-## Roadmap
-
-| Block | Topic | Status |
-|-------|-------|--------|
-| [01](./block-01/README.md) | Python Essentials | 📅 |
-| [02](./block-02/README.md) | Shell, PowerShell & Networking | 📅 |
-| [03](./block-03/README.md) | Infrastructure & Tools | 📅 |
-| [04](./block-04/README.md) | SQL & Data | 📅 |
-| [05](./block-05/README.md) | Statistics & Classical ML | 📅 |
-| [06](./block-06/README.md) | Deep Learning Foundations | 📅 |
-| [07](./block-07/README.md) | Transformers & Advanced RAG | 📅 |
-| [08](./block-08/README.md) | NLP & LLMs | 📅 |
-| [09](./block-09/README.md) | Claude & AI Assistants | 📅 |
-| [10](./block-10/README.md) | AI Agents & Multi-LLM Orchestration | 📅 |
-| [11](./block-11/README.md) | MLOps & Production | 📅 |
-| [12](./block-12/README.md) | Cloud & Azure | 📅 |
-| [13](./block-13/README.md) | Multimodal & Vision-Language | 📅 |
-| [14](./block-14/README.md) | Technical Writing & Community | 📅 |
-| [15](./block-15/README.md) | Specialization & Research | 📅 |
-
-**Status:** 📅 Planned · 🔄 In Progress · ✅ Done
+</div>
 
 ---
 
-## Mathematics
+## 📌 Principle
 
-All derivations written from scratch. If I can't derive it, I haven't understood it.
+> *If I can't derive it, I haven't understood it.*
+> *If I can't implement it, I haven't understood it.*
 
-| Level | Topics |
-|-------|--------|
-| [Level 1 — Foundations](./math/stufe-1-fundament/) | Backprop, Cross-Entropy, Adam, Probability |
-| [Level 2 — Transformers](./math/stufe-2-transformer/) | Attention, Positional Encoding, Softmax |
-| [Level 3 — Research](./math/stufe-3-research/) | RLHF, LoRA, ELBO, Score Matching |
+Every concept gets derived by hand **and** implemented in code before moving on.
+Mathematics lives inside each block — not in a separate folder.
 
 ---
 
-## Papers
+## 🗺️ Roadmap
 
-→ [Papers Overview](./papers/README.md)
+| # | Block | Topics | Status |
+|---|-------|--------|--------|
+| 01 | [Python Essentials](./block-01-python-essentials/README.md) | OOP, NumPy, Pandas, Async | 📅 |
+| 02 | [Shell, PowerShell & Networking](./block-02-shell-powershell-networking/README.md) | Bash, SSH, TCP/IP, REST | 📅 |
+| 03 | [Infrastructure & Tools](./block-03-infrastructure-tools/README.md) | Docker, Git, Cloud | 📅 |
+| 04 | [SQL & Data](./block-04-sql-data/README.md) | SQL, Databricks, Power BI | 📅 |
+| 05 | [Statistics & Classical ML](./block-05-statistics-classical-ml/README.md) | Probability, MLE, KL-Divergence | 📅 |
+| 06 | [Deep Learning Foundations](./block-06-deep-learning-foundations/README.md) | Backprop, Loss Functions, Adam | 📅 |
+| 07 | [Transformers & Advanced RAG](./block-07-transformers-advanced-rag/README.md) | Attention, HyDE, Reranking | 📅 |
+| 08 | [NLP & LLMs](./block-08-nlp-llms/README.md) | BERT, GPT, RLHF, LoRA | 📅 |
+| 09 | [Claude & AI Assistants](./block-09-claude-ai-assistants/README.md) | Constitutional AI, Claude API | 📅 |
+| 10 | [AI Agents & Multi-LLM](./block-10-ai-agents-multi-llm/README.md) | ReAct, LangGraph, Routing | 📅 |
+| 11 | [MLOps & Production](./block-11-mlops-production/README.md) | vLLM, LLMOps, Databricks | 📅 |
+| 12 | [Cloud & Azure](./block-12-cloud-azure/README.md) | AZ-900, AZ-204 | 📅 |
+| 13 | [Multimodal & Vision-Language](./block-13-multimodal-vision-language/README.md) | CLIP, ViT, Flamingo | 📅 |
+| 14 | [Technical Writing & Community](./block-14-technical-writing-community/README.md) | Paper writing, arxiv | 📅 |
+| 15 | [Specialization & Research](./block-15-specialization-research/README.md) | Ablations, own ideas | 📅 |
+
+`📅 Planned` · `🔄 In Progress` · `✅ Done`
 
 ---
 
-## Certifications
+## 📄 Papers
 
-→ [Certifications Overview](./certifications/README.md)
-
----
-
-## Core Books
-
-| Book | Link |
-|------|------|
-| Probabilistic Machine Learning — Murphy | [probml.github.io](https://probml.github.io) |
-| Deep Learning — Goodfellow et al. | [deeplearningbook.org](https://deeplearningbook.org) |
-| Speech and Language Processing — Jurafsky & Martin | [web.stanford.edu/~jurafsky/slp3](https://web.stanford.edu/~jurafsky/slp3) |
-| Designing ML Systems — Chip Huyen | O'Reilly 2022 |
-
----
-
-## Core Papers
+→ [Full papers list with summaries](./papers/README.md)
 
 | Paper | Year | Link |
 |-------|------|------|
@@ -78,3 +61,28 @@ All derivations written from scratch. If I can't derive it, I haven't understood
 | ReAct | 2022 | [arxiv](https://arxiv.org/abs/2210.03629) |
 | CLIP | 2021 | [arxiv](https://arxiv.org/abs/2103.00020) |
 | Scaling Laws | 2020 | [arxiv](https://arxiv.org/abs/2001.08361) |
+| Constitutional AI | 2022 | [arxiv](https://arxiv.org/abs/2212.08073) |
+| LLaMA | 2023 | [arxiv](https://arxiv.org/abs/2302.13971) |
+
+---
+
+## 📚 Core Books
+
+| Book | Author | Link |
+|------|--------|------|
+| Probabilistic Machine Learning | Murphy | [probml.github.io](https://probml.github.io) |
+| Deep Learning | Goodfellow et al. | [deeplearningbook.org](https://deeplearningbook.org) |
+| Speech and Language Processing | Jurafsky & Martin | [web.stanford.edu/~jurafsky/slp3](https://web.stanford.edu/~jurafsky/slp3) |
+| Designing Machine Learning Systems | Chip Huyen | O'Reilly 2022 |
+
+---
+
+## 🏅 Certifications
+
+→ [Certifications overview](./certifications/README.md)
+
+---
+
+## 📊 Progress
+
+→ [Full progress log](./PROGRESS.md)
