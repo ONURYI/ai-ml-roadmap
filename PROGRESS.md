@@ -4,7 +4,7 @@ Honest log of what I've learned, what clicked, what's still unclear.
 
 ---
 
-## Block 01 — Python Auffrischung
+## Block 01 — Python Essentials
 
 **Status:** 📅 Planned
 **Started:**
@@ -24,7 +24,7 @@ Honest log of what I've learned, what clicked, what's still unclear.
 
 ---
 
-## Block 02 — Shell, PowerShell & Netzwerke
+## Block 02 — Shell, PowerShell & Networking
 
 **Status:** 📅 Planned
 **Started:**
@@ -44,7 +44,7 @@ Honest log of what I've learned, what clicked, what's still unclear.
 
 ---
 
-## Block 03 — Infrastruktur & Werkzeuge
+## Block 03 — Infrastructure & Tools
 
 **Status:** 📅 Planned
 **Started:**
@@ -61,7 +61,7 @@ Honest log of what I've learned, what clicked, what's still unclear.
 
 ---
 
-## Block 04 — SQL & Daten
+## Block 04 — SQL & Data
 
 **Status:** 📅 Planned
 **Started:**
@@ -78,7 +78,7 @@ Honest log of what I've learned, what clicked, what's still unclear.
 
 ---
 
-## Block 05 — Statistik & klassisches ML
+## Block 05 — Statistics & Classical ML
 
 **Status:** 📅 Planned
 **Started:**
@@ -94,13 +94,13 @@ Honest log of what I've learned, what clicked, what's still unclear.
 -
 
 ### Math derived
-- [ ] Wahrscheinlichkeit & Erwartungswert → Murphy Kapitel 2
-- [ ] Gaussverteilung & MLE → Murphy Kapitel 3–4
-- [ ] KL-Divergenz → Murphy Kapitel 6
+- [ ] Probability & Expected Value → Murphy Chapter 2
+- [ ] Gaussian Distribution & MLE → Murphy Chapter 3–4
+- [ ] KL-Divergence → Murphy Chapter 6
 
 ---
 
-## Block 06 — Deep Learning Fundament
+## Block 06 — Deep Learning Foundations
 
 **Status:** 📅 Planned
 **Started:**
@@ -116,13 +116,13 @@ Honest log of what I've learned, what clicked, what's still unclear.
 -
 
 ### Math derived
-- [ ] Kettenregel als Backpropagation → Goodfellow 6.5
+- [ ] Chain Rule as Backpropagation → Goodfellow 6.5
 - [ ] Cross-Entropy Loss → Goodfellow 6.2
-- [ ] Adam → Goodfellow 8.1–8.5
+- [ ] Adam Optimizer → Goodfellow 8.1–8.5
 
 ---
 
-## Block 07 — Transformer & Advanced RAG
+## Block 07 — Transformers & Advanced RAG
 
 **Status:** 📅 Planned
 **Started:**
@@ -187,11 +187,17 @@ Honest log of what I've learned, what clicked, what's still unclear.
 
 ---
 
-## Block 11 — MLOps, Production & Open Source Inference
+## Block 11 — MLOps & Production
 
 **Status:** 📅 Planned
 **Started:**
 **Completed:**
+
+### What I learned
+-
+
+### Aha moments
+-
 
 ---
 
@@ -228,7 +234,7 @@ Honest log of what I've learned, what clicked, what's still unclear.
 
 ---
 
-## Block 15 — Spezialisierung & Research
+## Block 15 — Specialization & Research
 
 **Status:** 📅 Planned
 **Started:**
